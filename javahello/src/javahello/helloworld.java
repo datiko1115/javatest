@@ -6,5 +6,4 @@ public class helloworld {
 		// TODO 自動生成されたメソッド・スタブ
 ///aaa
 	}
-
 }
