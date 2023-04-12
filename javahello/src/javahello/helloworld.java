@@ -3,8 +3,7 @@ package javahello;
 public class helloworld {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-///aa
+        System.out.println("Hello World");
 		
 	}
 }
